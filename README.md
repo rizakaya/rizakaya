@@ -49,18 +49,6 @@
 
 ---
 
-### 📌 Öne Çıkan Projeler
-
-| Proje                                      | Açıklama                                                                                                                              |
-| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **Proposal Management MCP**                | Teklif yönetimi senaryosu üzerinden MCP ve kontrollü AI tool erişimini deneyimlediğim .NET tabanlı proje.                             |
-| **Product Catalog RAG Assistant**          | Ürün kataloğu üzerinden RAG, vector search, metadata filtering, structured output ve tool calling konularını ele alan örnek uygulama. |
-| **Local Agent Project Team Orchestration** | Yazılım ekibi rollerini temsil eden agent yapıları ile multi-agent orchestration mantığını deneyimlediğim proje.                      |
-| **Appointo AI**                            | Randevu yönetimi sürecini doğal dil tabanlı AI akışıyla modelleyen örnek proje.                                                       |
-| **Simple Chat Bot Ollama**                 | Ollama ve Qwen ile local LLM iletişimi, mesaj geçmişi ve streaming mantığını deneyimlediğim console uygulaması.                       |
-
----
-
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
