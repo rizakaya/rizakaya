@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">Merhaba 👋, ben Rıza Kaya</h1>
 
-<!--
-**rizakaya/rizakaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Sr. Full Stack Developer | .NET & AI-Native Systems</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Kurumsal yazılım geliştirme, .NET tabanlı sistemler ve AI destekli uygulamalar üzerine çalışıyorum.
+  <br/>
+  Son dönemde RAG, MCP, local LLM, tool calling, structured output ve agent orchestration konularına odaklanıyorum.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Hakkımda
+
+* 🔭 Kurumsal uygulamalar, API tasarımı ve sistem entegrasyonları üzerine çalışıyorum.
+* 🤖 AI-native yazılım geliştirme alanında pratik projeler geliştiriyorum.
+* 🧠 Local LLM, Ollama, Qwen, RAG, MCP ve agent mimarileri üzerine deneyimlerimi GitHub’da paylaşıyorum.
+* 🛠️ Öğrendiğim her konuyu küçük ve odaklı projelerle pekiştiriyorum.
+
+---
+
+### 🧩 Odak Alanlarım
+
+* .NET ile AI destekli uygulama geliştirme
+* RAG ve vector search
+* MCP server geliştirme
+* Tool calling ve structured output
+* Agent orchestration
+* Local LLM kullanımı
+* Kurumsal sistemlerin AI araçlarına kontrollü açılması
+
+---
+
+### 🛠️ Teknolojiler
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,react,ts,js,html,css,docker,redis,rabbitmq,git,github,postgres,mysql,mongodb" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Qwen-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tool%20Calling-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Structured%20Output-111827?style=for-the-badge" />
+</p>
+
+---
+
+### 📌 Öne Çıkan Projeler
+
+| Proje                                      | Açıklama                                                                                                                              |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **Proposal Management MCP**                | Teklif yönetimi senaryosu üzerinden MCP ve kontrollü AI tool erişimini deneyimlediğim .NET tabanlı proje.                             |
+| **Product Catalog RAG Assistant**          | Ürün kataloğu üzerinden RAG, vector search, metadata filtering, structured output ve tool calling konularını ele alan örnek uygulama. |
+| **Local Agent Project Team Orchestration** | Yazılım ekibi rollerini temsil eden agent yapıları ile multi-agent orchestration mantığını deneyimlediğim proje.                      |
+| **Appointo AI**                            | Randevu yönetimi sürecini doğal dil tabanlı AI akışıyla modelleyen örnek proje.                                                       |
+| **Simple Chat Bot Ollama**                 | Ollama ve Qwen ile local LLM iletişimi, mesaj geçmişi ve streaming mantığını deneyimlediğim console uygulaması.                       |
+
+---
+
+### 📊 GitHub İstatistikleri
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizakaya&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizakaya&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+### 🔗 Bağlantılar
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kayariza" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Rıza%20Kaya-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/rizakaya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-rizakaya-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
